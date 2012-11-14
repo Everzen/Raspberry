@@ -4,7 +4,7 @@
 Pygame Tutorial 3
 Pong: Step 3 - The Polish
 
-Written by Collin "Keeyai" Green
+Written by Collin "Keeyai" Green , http://muagames.com/tutorials/pygame-3-pong/
 
 Version 1.0.0 - 2010-12-26
 
